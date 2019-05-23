@@ -4025,6 +4025,10 @@ seek-bzip@^1.0.3:
   dependencies:
     commander "~2.8.1"
 
+select2@^4.0.6-rc.1:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.7.tgz#7b80473ef7900f4dc2b988623275fe569204ae8d"
+
 semver-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/semver-regex/-/semver-regex-1.0.0.tgz#92a4969065f9c70c694753d55248fc68f8f652c9"
@@ -4899,7 +4903,8 @@ wide-align@^1.1.0:
 
 "wordpress-core-css@github:keefyhub/wordpress-core-css":
   version "1.0.0"
-  resolved "https://codeload.github.com/keefyhub/wordpress-core-css/tar.gz/723decfb77f3aa65d22ae177667a35a1e0df8f22"
+  uid dc63bb300f34ba3bfa868afe74fd2dd15dd4f97a
+  resolved "https://codeload.github.com/keefyhub/wordpress-core-css/tar.gz/dc63bb300f34ba3bfa868afe74fd2dd15dd4f97a"
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
