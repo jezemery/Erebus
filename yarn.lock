@@ -1353,7 +1353,7 @@ event-emitter@~0.3.4, event-emitter@~0.3.5:
 
 event-stream@^3.1.7:
   version "3.3.4"
-  resolved "http://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   dependencies:
     duplexer "~0.1.1"
     from "~0"
@@ -3411,7 +3411,7 @@ once@~1.3.0:
 
 onetime@^1.0.0:
   version "1.1.0"
-  resolved "http://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
+  resolved "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz#a1f7838f8314c516f05ecefcbc4ccfe04b4ed789"
 
 optipng-bin@^3.0.0:
   version "3.1.4"
@@ -4024,6 +4024,10 @@ seek-bzip@^1.0.3:
   resolved "https://registry.yarnpkg.com/seek-bzip/-/seek-bzip-1.0.5.tgz#cfe917cb3d274bcffac792758af53173eb1fabdc"
   dependencies:
     commander "~2.8.1"
+
+select2@^4.0.6-rc.1:
+  version "4.0.12"
+  resolved "https://registry.yarnpkg.com/select2/-/select2-4.0.12.tgz#9c0492d4d06948f2bd079f6e14718a41c7eaa60e"
 
 semver-regex@^1.0.0:
   version "1.0.0"
@@ -4899,7 +4903,8 @@ wide-align@^1.1.0:
 
 "wordpress-core-css@github:keefyhub/wordpress-core-css":
   version "1.0.0"
-  resolved "https://codeload.github.com/keefyhub/wordpress-core-css/tar.gz/723decfb77f3aa65d22ae177667a35a1e0df8f22"
+  uid "7b9ec162219b93e0e1e945c6491e668a18e525ac"
+  resolved "https://codeload.github.com/keefyhub/wordpress-core-css/tar.gz/7b9ec162219b93e0e1e945c6491e668a18e525ac"
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
